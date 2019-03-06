@@ -13,7 +13,6 @@ h2,
 h3,
 h4 {
     font-weight: 900;
-    text-transform: uppercase;
 }
 
 h1 {
@@ -1079,6 +1078,10 @@ ul.comment-list {
 /*-----------------------------------------------------------------------------------*/
 .contact_form {
     margin-top: 3rem;
+}
+
+.contact-info {
+    text-align: center;
 }
 
 .post-comment-respond input,

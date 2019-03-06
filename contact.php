@@ -8,7 +8,7 @@
         // Change subject
         $subject="Message sent using your contact form";
         // Replace with your email
-        mail("contact@yourwebsite.com", $subject, $message, $from); 
+        mail("dvoynospavael@gmail.com", $subject, $message, $from); 
         
         echo "Email sent!"; 
         }    

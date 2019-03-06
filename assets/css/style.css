@@ -81,7 +81,7 @@ blockquote {
 }
 
 .content {
-    background-image: url(../images/bg.png);
+    background-image: url(/assets/images/bg.png);
     min-height: 100%;
 }
 
@@ -442,7 +442,8 @@ nav ul ul ul li {
 /*  05. PARALLAX
 /*-----------------------------------------------------------------------------------*/
 .parallax {
-    background-image: url(../images/parallax2.jpg);
+    /* You can add global bg-image to all pages with this class*/
+    /*background-image: url(../images/parallax2.jpg);*/
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;

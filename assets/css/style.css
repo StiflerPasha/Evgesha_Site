@@ -442,8 +442,9 @@ nav ul ul ul li {
 /*  05. PARALLAX
 /*-----------------------------------------------------------------------------------*/
 .parallax {
-    /* You can add global bg-image to all pages with this class*/
-    /*background-image: url(../images/parallax2.jpg);*/
+    /* You can add global bg-image to all pages with this class
+    background-image: url(../images/parallax2.jpg);
+    */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
